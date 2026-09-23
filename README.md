@@ -290,11 +290,10 @@ low while still supporting fast, join-based analytical queries.
 
 - No detailed inventory replenishment mechanism yet
 - Real-time warehouse stock syncing across platforms needs further optimization
-
 ---
 
-## 👥 Authors
+## 👤 Authors
 
-- Priyanshu Jha — BTech AI, MPSTME
-- Dhruv Marwal — BTech AI, MPSTME
-- Shivang Jain — BTech AI, MPSTME
+- GitHub: [Dhruv Marwal](https://github.com/DhruvMarwal) , [Priyanshu Jha](https://github.com/Priyanshu0423) , [Shivang Jain](https://github.com/Xopse)
+- LinkedIn: [Dhruv Marwal](https://linkedin.com/in/dhruvmarwal) , [Priyanshu Jha](https://linkedin.com/in/priyanshujha-) , [Shivang Jain](https://linkedin.com/in/shivang-jain-69602132a)
+---
